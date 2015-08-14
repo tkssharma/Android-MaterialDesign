@@ -19,14 +19,14 @@ run gradle build
 ## Material Design Color Customization
 Material Design provides set of properties to customize the Material Design Color theme. But we use five primary attributes to customize overall theme.
 
-### colorPrimaryDark – This is darkest primary color of the app mainly applies to notification bar background.
+ colorPrimaryDark – This is darkest primary color of the app mainly applies to notification bar background.
 
-### colorPrimary – This is the primary color of the app. This color will be applied as toolbar background.
+ colorPrimary – This is the primary color of the app. This color will be applied as toolbar background.
 
-### textColorPrimary – This is the primary color of text. This applies to toolbar title.
+ textColorPrimary – This is the primary color of text. This applies to toolbar title.
 
-### windowBackground – This is the default background color of the app.
+ windowBackground – This is the default background color of the app.
 
-### navigationBarColor – This color defines the background color of footer navigation bar.
+ navigationBarColor – This color defines the background color of footer navigation bar.
 
 
